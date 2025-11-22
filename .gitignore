@@ -1,2 +1,5 @@
 # Vs code Folder
-./.vscode
+/.vscode
+
+# .DS_Store file
+/.DS_Store
