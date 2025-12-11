@@ -6,7 +6,14 @@ Website about an architecture forest company offers different options of houses 
 
 ## 📸 Preview
 
-![Desktop-view](./images/desktop.png)
+![Home](./assets/architecture-1.png)
+![About](./assets/architecture-2.png)
+![Model-1](./assets/architecture-3.png)
+![Model-2](./assets/architecture-4.png)
+![Model-3](./assets/architecture-5.png)
+![Gallery](./assets/architecture-6.png)
+![Contact](./assets/architecture-7.png)
+![Footer](./assets/architecture-8.png)
 
 ---
 
