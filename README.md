@@ -43,7 +43,7 @@ Users should be able to:
 ## 📁 Project Structure
 
 ```bash
-📦 nft-card-component
+📦 forest-architecture
 ├── 📁 css/
 ├── 📁 img/
 ├── 🙅🏻‍♂️ .gitignore
